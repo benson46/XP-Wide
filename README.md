@@ -10,6 +10,12 @@ XPWide is a robust, full-featured MERN (MongoDB, Express.js, React, Node.js) e-c
 
 ---
 
+
+### 🖼️ UI Previews
+![](https://github.com/benson46/Xpwide-Client/blob/main/xpwide2.png?raw=true)
+
+![](https://github.com/benson46/Xpwide-Client/blob/main/xpwide1.png?raw=true)
+
 ## ✨ Features
 
 ### 👤 User Side
