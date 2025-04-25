@@ -1,0 +1,6 @@
+[submodule "Xpwide-Server"]
+	path = Xpwide-Server
+	url = https://github.com/benson46/Xpwide-Server.git
+[submodule "Xpwide-Client"]
+	path = Xpwide-Client
+	url = https://github.com/benson46/Xpwide-Client.git
